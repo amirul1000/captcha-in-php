@@ -1,6 +1,6 @@
 "# captcha-in-php"
 
-Capcha in PHP
+Captcha in PHP
 =========================
 
 1.Generate random variable
