@@ -12,9 +12,8 @@ Captcha in PHP
 3.Submit and match with entering number
 
 
-Youtube Tutorial : https://youtu.be/mX7CIE9JEzU
+Youtube Tutorial : https://youtu.be/gxX3BS10ZW8
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
